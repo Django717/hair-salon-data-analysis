@@ -56,8 +56,10 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
+![Revenue by Category](Images/chart_revenue_by_category.png)
 ![Inactive Segments](Images/pie_chart_inactive_segments.png)
 ![Top Categories](Images/pie_chart_top_5_categories.png)
+
 ---
 
 ## 💡 Business Recommendations
