@@ -56,9 +56,8 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
-![Inactive Segments](Images/Pie chart Inactive Segments.png)
-![Top Categories](Images/Pie chart Top 5 Categories.png)
-
+![Inactive Segments](Images/pie_chart_inactive_segments.png)
+![Top Categories](Images/pie_chart_top_5_categories.png)
 ---
 
 ## 💡 Business Recommendations
