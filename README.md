@@ -65,7 +65,11 @@ The dataset includes:
 ## 🚀 Project Structure
 hair-salon-data-analysis/
 │
-├── Hair Salon/
+├── Data/
+│   └── salon_data.xlsx
+├── Images/
+├── Recommendations/
+│   └── business_recommendations.md
 ├── README.md
 
 ---
