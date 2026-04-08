@@ -52,6 +52,13 @@ The dataset includes:
 - Excel (Pivot Tables, Charts)
 - Data Cleaning & Transformation
 
+
+---
+
+## 📷 Dashboard Preview
+![Inactive Segments](Images/Pie chart Inactive Segments.png)
+![Top Categories](Images/Pie chart Top 5 Categories.png)
+
 ---
 
 ## 💡 Business Recommendations
